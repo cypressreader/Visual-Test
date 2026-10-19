@@ -1,0 +1,8 @@
+{
+  "name": "CyPress Preview",
+  "description": "CyPress web app preview - personal newspaper and modern RSS feed reader.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
